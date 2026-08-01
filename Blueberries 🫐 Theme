@@ -1,4 +1,3 @@
-
 {
   "name": "Blueberry 🫐 theme",
   "description": "A deep indigo-violet blueberry theme on pure black background",
@@ -321,7 +320,7 @@
     "RED_630": "#110359",
     "RED_660": "#0f024f",
     "RED_700": "#0d0245",
-    "ROLE_DEFAULT": "#0d0245",
+    "ROLE_DEFAULT": "#FFFFFF",
     "ORANGE_260": "#2005a7",
     "ORANGE_300": "#1e04a1",
     "ORANGE_330": "#1e049c",
@@ -379,7 +378,7 @@
     "version": 0,
     "iconpack": "rosiecord-plumpy",
     "mentionLineColor": "#e2dcfe",
-    "backgroundImageUrl": "https://github.com/0nlyrisk/Blueberries-theme/raw/refs/heads/main/Blueberries%20%F0%9F%AB%90%20Theme%20Background",
+    "backgroundImageUrl": "https://github.com/0nlyrisk/Blueberries-theme/raw/refs/heads/main/Blueberries%20%F0%9F%AB%90%20Background",
     "backgroundAlpha": 0.4,
     "blur": 0.75,
     "customIconOverlays": true,
@@ -423,7 +422,7 @@
   },
   "spec": 2,
   "background": {
-    "url": "https://github.com/0nlyrisk/Blueberries-theme/raw/refs/heads/main/Blueberries%20%F0%9F%AB%90%20Theme%20Background",
+    "url": "https://github.com/0nlyrisk/Blueberries-theme/raw/refs/heads/main/Blueberries%20%F0%9F%AB%90%20Background",
     "alpha": 0.5,
     "blur": 0.75
   }
