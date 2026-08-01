@@ -379,7 +379,7 @@
     "version": 0,
     "iconpack": "rosiecord-plumpy",
     "mentionLineColor": "#e2dcfe",
-    "backgroundImageUrl": "https://github.com/0nlyrisk/Blueberries-theme/raw/refs/heads/main/Blueberries%20%F0%9F%AB%90%20Background",
+    "backgroundImageUrl": "https://github.com/0nlyrisk/Blueberries-theme/raw/refs/heads/main/BlueBerry%20%F0%9F%AB%90%20Dark%20Blue%20Theme%20Background",
     "backgroundAlpha": 0.4,
     "blur": 0.75,
     "customIconOverlays": true,
@@ -423,7 +423,7 @@
   },
   "spec": 2,
   "background": {
-    "url": "https://github.com/0nlyrisk/Blueberries-theme/raw/refs/heads/main/Blueberries%20%F0%9F%AB%90%20Background",
+    "url": "https://github.com/0nlyrisk/Blueberries-theme/raw/refs/heads/main/BlueBerry%20%F0%9F%AB%90%20Dark%20Blue%20Theme%20Background",
     "alpha": 0.5,
     "blur": 0.75
   }
